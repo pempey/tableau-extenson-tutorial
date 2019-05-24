@@ -1,0 +1,13 @@
+{
+  "name": "learning",
+  "version": "1",
+  "main": "index.js",
+  "repository": "https://github.com/pempey/tableau-extenson-tutorial",
+  "author": "Peter Empey <empey.peter@gmail.com>",
+  "license": "none",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "chart.js": "^2.8.0",
+    "jquery": "^3.4.1"
+  }
+}
